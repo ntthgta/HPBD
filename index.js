@@ -1,5 +1,7 @@
-const contentLetterSrart_actived = "Có 2 phần cần sửa ở đây, nhớ là đừng xóa dấu nháy nhá, thiếu 1 dấu chấm là lỗi á" //Lời mở đầu cho bức thư
-const mainContentLetter = "sửa trong phạm vi 2 dấu nháy thôi. xong rồi ấn commit" //Nội dung của bức thư
+const contentLetterSrart_actived = "Tadaaa món quà của ntth dành tặng cho anhh nè^^" //Lời mở đầu cho bức thư
+const mainContentLetter = "E hèm thay mặt Đảng,Chính phủ,các vị lãnh đạo và toàn thể nhân dân Việt Nam cùng hơn 7 tỷ người trên thế giới, em xin gửi lời chúc này đến anhh.
+    Chúc cho những ngày tháng tiếp theo của anh sẽ tràn đầy nắng ấm, những cơn mưa đến sẽ làm dịu tâm hồn sau 1 ngày làm việc vất vả. Tuổi mới mong anh sẽ luôn rõ ràng với những gì anh đã chọn.
+    Ntth chúc ATus có 1 ngày sinh vuive!!!!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
