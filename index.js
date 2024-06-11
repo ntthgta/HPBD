@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Phần đầu" //Lời mở đầu cho bức thư
-const mainContentLetter = "Nôi dung" //Nội dung của bức thư
+const contentLetterSrart_actived = "Có 2 phần cần sửa ở đây, nhớ là đừng xóa dấu nháy nhá, thiếu 1 dấu chấm là lỗi á" //Lời mở đầu cho bức thư
+const mainContentLetter = "sửa trong phạm vi 2 dấu nháy thôi. xong rồi ấn commit" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
